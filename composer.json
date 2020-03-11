@@ -1,12 +1,12 @@
 {
     "name": "connectpos/m23-rest-api",
     "description": "ConnectPos Magento 2.3.x API",
-    "version": "20.03.09",
+    "version": "20.03.11",
     "type": "metapackage",
     "require": {
         "connectpos/module-xretail23": "20.03.09",
         "connectpos/module-category": "20.03.09",
-        "connectpos/module-core": "20.03.09",
+        "connectpos/module-core": "20.03.11",
         "connectpos/module-customer": "20.03.09",
         "connectpos/module-customization": "20.03.09",
         "connectpos/module-custom-sale": "20.03.09",
@@ -26,7 +26,7 @@
         "connectpos/module-pwa-qrcode": "20.03.09",
         "connectpos/module-refund-without-receipt": "20.03.09",
         "connectpos/module-report": "20.03.09",
-        "connectpos/module-sales": "20.03.09",
+        "connectpos/module-sales": "20.03.11",
         "connectpos/module-setting": "20.03.09",
         "connectpos/module-shell": "20.03.09",
         "connectpos/module-shift": "20.03.09",
