@@ -1,7 +1,7 @@
 {
     "name": "connectpos/m23-rest-api",
     "description": "ConnectPos Magento 2.3.x API",
-    "version": "20.06.23",
+    "version": "20.06.27",
     "type": "metapackage",
     "require": {
         "connectpos/module-xretail23": "20.06.23",
@@ -19,7 +19,7 @@
         "connectpos/module-payment": "20.06.23",
         "connectpos/module-payment-express": "20.06.23",
         "connectpos/module-performance": "20.06.23",
-        "connectpos/module-product": "20.06.23",
+        "connectpos/module-product": "20.06.27",
         "connectpos/module-pwa": "20.06.23",
         "connectpos/module-pwa-banner": "20.06.23",
         "connectpos/module-pwa-keyword": "20.06.23",
