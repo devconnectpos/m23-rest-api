@@ -4,7 +4,7 @@
     "version": "20.07.15",
     "type": "metapackage",
     "require": {
-        "connectpos/module-xretail23": "20.07.13",
+        "connectpos/module-xretail23": "20.07.15",
         "connectpos/module-category": "20.06.23",
         "connectpos/module-core": "20.07.13",
         "connectpos/module-customer": "20.06.23",
@@ -26,7 +26,7 @@
         "connectpos/module-pwa-qrcode": "20.06.23",
         "connectpos/module-refund-without-receipt": "20.06.23",
         "connectpos/module-report": "20.06.23",
-        "connectpos/module-sales": "20.07.09",
+        "connectpos/module-sales": "20.07.15",
         "connectpos/module-setting": "20.07.09",
         "connectpos/module-shell": "20.06.23",
         "connectpos/module-shift": "20.06.23",
