@@ -1,7 +1,7 @@
 {
     "name": "connectpos/m23-rest-api",
     "description": "ConnectPos Magento 2.3.x API",
-    "version": "20.07.13",
+    "version": "20.07.15",
     "type": "metapackage",
     "require": {
         "connectpos/module-xretail23": "20.07.13",
