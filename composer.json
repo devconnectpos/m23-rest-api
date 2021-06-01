@@ -5,7 +5,7 @@
     "type": "metapackage",
     "require": {
         "connectpos/module-xretail23": "21.06.01",
-        "connectpos/module-adyen": "20.11.05",
+        "connectpos/module-adyen": "21.06.01",
         "connectpos/module-category": "21.04.28",
         "connectpos/module-core": "21.01.28",
         "connectpos/module-customer": "21.05.27",
@@ -15,7 +15,7 @@
         "connectpos/module-discount-whole-order": "20.06.23",
         "connectpos/module-email": "20.06.23",
         "connectpos/module-electronic-journal": "20.06.23",
-        "connectpos/module-eway": "21.04.01",
+        "connectpos/module-eway": "21.06.01",
         "connectpos/module-integrate": "21.05.27",
         "connectpos/module-payment": "21.04.28",
         "connectpos/module-payment-express": "20.06.23",
@@ -33,7 +33,7 @@
         "connectpos/module-shift": "21.05.27",
         "connectpos/module-shipping": "21.05.27",
         "connectpos/module-store": "21.05.06",
-        "connectpos/module-stripe": "21.04.28",
+        "connectpos/module-stripe": "21.06.01",
         "connectpos/module-tax": "20.06.23",
         "connectpos/module-tls": "21.05.20",
         "connectpos/module-wishlist": "20.06.23"
