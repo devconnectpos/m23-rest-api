@@ -1,10 +1,10 @@
 {
     "name": "connectpos/m23-rest-api",
     "description": "ConnectPos Magento 2.3.x and 2.4.x API",
-    "version": "22.12.05",
+    "version": "22.12.13",
     "type": "metapackage",
     "require": {
-        "connectpos/module-xretail23": "22.12.05",
+        "connectpos/module-xretail23": "22.12.13",
         "connectpos/module-adyen": "22.09.15",
         "connectpos/module-category": "21.04.28",
         "connectpos/module-core": "22.10.31",
@@ -31,7 +31,7 @@
         "connectpos/module-setting": "22.03.30",
         "connectpos/module-shell": "21.11.03",
         "connectpos/module-shift": "22.12.05",
-        "connectpos/module-shipping": "22.11.20",
+        "connectpos/module-shipping": "22.12.13",
         "connectpos/module-store": "21.11.26",
         "connectpos/module-stripe": "21.11.05",
         "connectpos/module-tax": "20.06.23",
