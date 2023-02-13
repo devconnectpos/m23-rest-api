@@ -1,10 +1,10 @@
 {
     "name": "connectpos/m23-rest-api",
     "description": "ConnectPos Magento 2.3.x and 2.4.x API",
-    "version": "23.01.25",
+    "version": "23.02.13",
     "type": "metapackage",
     "require": {
-        "connectpos/module-xretail23": "23.01.25",
+        "connectpos/module-xretail23": "23.02.13",
         "connectpos/module-adyen": "23.01.09",
         "connectpos/module-category": "21.04.28",
         "connectpos/module-core": "23.01.09",
